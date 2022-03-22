@@ -1,0 +1,6 @@
+req - when we get data from api like from postman or browser
+res - when nodejs server responses api
+app.listen(port number) - server in which code runs
+app.use(express.json()) - to convert the data so that it become available
+body-parser -to get body from request (express 4.6 ) afterwards(express.json())
+
